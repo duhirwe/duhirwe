@@ -1,14 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Patrick Duhirwe
-=======================================================================================================================================
+Machine Learning Engineer | Data Scientist | Researcher
+-------------------------------------------------------
 
-Machine Learning Engineer | Data Scientist
--------------------------------------
-
-* 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio at [My Portfolio](http://duhirwe.github.io/)
-* ✉️  You can contact me at [duhirwepatrick@gmail.com](mailto:duhirwepatrick@gmail.com)
-* 🤝  I'm open to work on machine learning and data science-related projects
-* ⚡  I'm secretly learning how to do a backflip
+* 🌍  Based in San Antonio, Texas
+* ✉️  Contact: [duhirwepatrick@gmail.com](mailto:duhirwepatrick@gmail.com)
+* 🤝  Open to machine learning and data science projects
+* ⚡  Secretly learning how to do a backflip
 
 ### Skills
 
