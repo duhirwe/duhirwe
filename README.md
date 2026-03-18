@@ -1,4 +1,4 @@
-Machine Learning Engineer | Data Scientist | Researcher
+Postdoctoral Researcher
 -------------------------------------------------------
 
 * 🌍  Based in San Antonio, Texas
